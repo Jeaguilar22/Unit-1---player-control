@@ -1,0 +1,16 @@
+{
+"companyName": "Jesus Aguilar",
+"productName": "Unit 1 - player control",
+"productVersion": "1.0",
+"dataUrl": "PlayerControl.data.unityweb",
+"wasmCodeUrl": "PlayerControl.wasm.code.unityweb",
+"wasmFrameworkUrl": "PlayerControl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
